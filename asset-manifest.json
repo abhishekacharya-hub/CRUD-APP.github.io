@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/crud-app/static/css/main.55102349.chunk.css",
-    "main.js": "/crud-app/static/js/main.c8e8da96.chunk.js",
-    "main.js.map": "/crud-app/static/js/main.c8e8da96.chunk.js.map",
-    "runtime-main.js": "/crud-app/static/js/runtime-main.c126efd9.js",
-    "runtime-main.js.map": "/crud-app/static/js/runtime-main.c126efd9.js.map",
-    "static/js/2.173abab2.chunk.js": "/crud-app/static/js/2.173abab2.chunk.js",
-    "static/js/2.173abab2.chunk.js.map": "/crud-app/static/js/2.173abab2.chunk.js.map",
-    "index.html": "/crud-app/index.html",
-    "static/css/main.55102349.chunk.css.map": "/crud-app/static/css/main.55102349.chunk.css.map",
-    "static/js/2.173abab2.chunk.js.LICENSE.txt": "/crud-app/static/js/2.173abab2.chunk.js.LICENSE.txt"
+    "main.css": "/crud-app.github.io/static/css/main.55102349.chunk.css",
+    "main.js": "/crud-app.github.io/static/js/main.c97d2f53.chunk.js",
+    "main.js.map": "/crud-app.github.io/static/js/main.c97d2f53.chunk.js.map",
+    "runtime-main.js": "/crud-app.github.io/static/js/runtime-main.d0732739.js",
+    "runtime-main.js.map": "/crud-app.github.io/static/js/runtime-main.d0732739.js.map",
+    "static/js/2.77882ece.chunk.js": "/crud-app.github.io/static/js/2.77882ece.chunk.js",
+    "static/js/2.77882ece.chunk.js.map": "/crud-app.github.io/static/js/2.77882ece.chunk.js.map",
+    "index.html": "/crud-app.github.io/index.html",
+    "static/css/main.55102349.chunk.css.map": "/crud-app.github.io/static/css/main.55102349.chunk.css.map",
+    "static/js/2.77882ece.chunk.js.LICENSE.txt": "/crud-app.github.io/static/js/2.77882ece.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c126efd9.js",
-    "static/js/2.173abab2.chunk.js",
+    "static/js/runtime-main.d0732739.js",
+    "static/js/2.77882ece.chunk.js",
     "static/css/main.55102349.chunk.css",
-    "static/js/main.c8e8da96.chunk.js"
+    "static/js/main.c97d2f53.chunk.js"
   ]
 }
