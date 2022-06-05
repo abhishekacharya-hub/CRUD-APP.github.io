@@ -2,8 +2,8 @@
 <browserconfig>
     <msapplication>
         <tile>
-            <square150x150logo src="/crud-app/mstile-150x150.png"/>
-            <TileColor>#ffeea8</TileColor>
+            <square150x150logo src="/crud-app/titleicon-150x150.jpg"/>
+            <TileColor>#ffeea8</TileColor> 
         </tile>
-    </msapplication>
+    </msapplication>erytyg
 </browserconfig>

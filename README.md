@@ -1,11 +1,11 @@
 <h1 align="center">
-  <a href="https://safdarjamal.github.io/crud-app/">
+  <!--<a href="https://safdarjamal.github.io/crud-app/">-->
     CRUD App
   </a>
 </h1>
 
 <p align="center">
-  <a href="https://github.com/SafdarJamal/crud-app/actions?query=workflow%3A%22Node.js+CI%22">
+  <!--<a href="https://github.com/SafdarJamal/crud-app/actions?query=workflow%3A%22Node.js+CI%22">
     <img src="https://github.com/SafdarJamal/crud-app/workflows/Node.js%20CI/badge.svg" alt="Node.js CI" />
   </a>
   <a href="https://github.com/SafdarJamal/crud-app/releases">
@@ -13,14 +13,14 @@
   </a>
   <a href="https://github.com/SafdarJamal/crud-app/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/SafdarJamal/crud-app" alt="License" />
-  </a>
+  </a>-->
 </p>
 
 <p align="center">
   A simple and beautiful <a href="https://www.codecademy.com/articles/what-is-crud">CRUD</a> application built with <a href="https://reactjs.org">React</a>.
 </p>
 
-![crud-app](https://user-images.githubusercontent.com/48409548/94567114-8aa5ea80-0284-11eb-99f6-87401b099848.png)
+<!--![crud-app](https://user-images.githubusercontent.com/48409548/94567114-8aa5ea80-0284-11eb-99f6-87401b099848.png)-->
 
 ## Technologies Used
 
@@ -60,7 +60,7 @@ and then you can open http://localhost:3000 to view it in the browser.
 | npm run build | Builds the app for production to the `build` folder.                    |
 | npm run eject | This command will remove the single build dependency from your project. |
 
-## Credits
+<!--## Credits
 
 CRUD App is built and maintained by [Safdar Jamal](https://safdarjamal.github.io).
 
