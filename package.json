@@ -1,5 +1,5 @@
 {
-  "homepage": "https://safdarjamal.github.io/crud-app/",
+  "homepage": "https://abhishekacharya-hub.github.io/CRUD-APP.github.io/",
   "name": "crud-app",
   "version": "3.1.0",
   "private": true,
@@ -18,9 +18,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
